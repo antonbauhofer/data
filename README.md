@@ -1,5 +1,5 @@
 # data
-Data used in the projects on my GitHub page.
+Data files used in the projects on my GitHub page:
 
 games.xlsx
 - Content: Warm-up games for circus and theatre trainings.
